@@ -6,12 +6,14 @@ import { APP_ROUTES } from './app.routes';
 // modulos
 import { PagesModule } from './pages/pages.module';
 
+// temporal
+// import { FormsModule } from '@angular/forms';
+
 
 // componentes
 import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './login/register.component';
-
 
 
 
